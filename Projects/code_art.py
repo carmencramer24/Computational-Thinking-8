@@ -3,15 +3,15 @@
 import turtle
 # ###############################################
 
-#color is purple
+#Place on the screen that my drawing is 
 t = turtle.Turtle()
 t.penup()
 t.goto(-100, -100)
+#color is purple 
 t.color("purple")
 t.pendown()
 
-#t.forward(100)
-#t.left(90)
+# making My shape 
 t.forward(100)
 t.left(90)
 t.forward(50)
